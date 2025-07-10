@@ -30,7 +30,7 @@
     "@electron-toolkit/eslint-config-ts": "^3.0.0",
     "@electron-toolkit/tsconfig": "^1.0.1",
     "@mdi/font": "^7.4.47",
-    "@types/node": "^22.14.1",
+    "@types/node": "^24.0.12",
     "@vitejs/plugin-vue": "^6.0.0",
     "electron": "^35.1.5",
     "electron-builder": "^26.0.12",
