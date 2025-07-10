@@ -16,9 +16,6 @@ export default defineConfig({
 				'@renderer': resolve('src/renderer/src')
 			}
 		},
-		plugins: [
-			vue({template: {transformAssetUrls}}),
-			vuetify({autoImport: true})
-		]
+		plugins: [vue({ template: { transformAssetUrls } }), vuetify({ autoImport: true })]
 	}
 });

@@ -88,5 +88,5 @@ const links = [
 		title: 'Community'
 	}
 ];
-const openNewWindow = (url: string) => window.open(url, '_blank');
+const openNewWindow = (url: string): unknown => window.open(url, '_blank');
 </script>
